@@ -35,4 +35,3 @@ Create a new React Application and the application, perform the following tasks:
 - 2 movie components with information about the title and the year
 
 6. Add styling to each component as needed
-# ntu-movie-app
